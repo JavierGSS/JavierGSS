@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JavierGSS--aka "Baba"
-- 👀 I’m interested in full-stack developing -- in particular, the MERN stack
+- 👀 I’m interested in full-stack development -- in particular, MERN stack development
 - 🌱 I’m currently learning Java, Next.js
-- 💞️ I’m looking to collaborate on full-stack development projects
-- 📫 How to reach me: via GitHub or LinkedIn: www.linkedin.com/in/javiergss
+- 💞️ I’m looking to collaborate in full-stack dev projects
+- 📫 How to reach me: here in GitHub or in LinkedIn: www.linkedin.com/in/javiergss
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: #LogicLover!
 
