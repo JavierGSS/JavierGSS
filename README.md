@@ -5,6 +5,7 @@
 - 📫 How to reach me: here in GitHub or in LinkedIn: www.linkedin.com/in/javiergss
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: #LogicLover!
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS)
 <!---
 JavierGSS/JavierGSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
