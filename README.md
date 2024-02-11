@@ -10,6 +10,8 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JavierGSS?tab=followers)
 
+[![Sparkline](https://stars.medv.io/JavierGSS/badges.svg)](https://stars.medv.io/JavierGSS/badges)
+
 <!---
 JavierGSS/JavierGSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
