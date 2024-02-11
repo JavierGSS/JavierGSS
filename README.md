@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Javier García Salcedo--aka "Baba"
 - 👀 I’m interested in logic & MERN stack development
 - 🌱 I’m currently learning Java, Next.js, TypeScript
-- 📫 How to reach me: via LinkedIn: www.linkedin.com/in/javiergss
+- 📫 How to reach me: www.linkedin.com/in/javiergss
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: #LogicLover!
 <br/>
