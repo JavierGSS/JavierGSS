@@ -1,4 +1,4 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS/StrapDown.js/graphs/commit-activity) &nbsp; ![Maintainer](https://img.shields.io/badge/maintainer-JavierGSS-blue) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JavierGSS?tab=followers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/maintainer-JavierGSS-blue)](https://GitHub.com/JavierGSS) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JavierGSS?tab=followers)
 
 - 👋 Hi, I’m @JavierGSS--aka "Baba"
 - 👀 I’m interested in full-stack development -- in particular, MERN stack development
