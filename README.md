@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: #LogicLover!
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JavierGSS?tab=followers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JavierGSS?tab=followers)
 
 <!---
 JavierGSS/JavierGSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
