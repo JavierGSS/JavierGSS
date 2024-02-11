@@ -1,8 +1,8 @@
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) &nbsp; [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) &nbsp; [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) &nbsp; 
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) &nbsp; [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) &nbsp; [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) &nbsp; [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
 - 👋 Hi, I’m Javier García Salcedo--aka "Baba"
 - 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning Java, Next.js
+- 🌱 I’m currently learning Java, Next.js, TypeScript
 - 💞️ I’m looking to collaborate in full-stack dev projects
 - 📫 How to reach me: here in GitHub or in LinkedIn: www.linkedin.com/in/javiergss
 - 😄 Pronouns: he/him
