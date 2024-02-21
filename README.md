@@ -12,6 +12,8 @@
 - ⚡ Fun fact: #LogicLover!
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierGSS&theme=tokyonight" alt="mystreak"/>
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; <img alt="followers" src="https://img.shields.io/github/followers/JavierGSS?label=Followers&style=social">
 
 <!---
