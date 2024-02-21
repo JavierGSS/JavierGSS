@@ -12,7 +12,7 @@
 - ⚡ Fun fact: #LogicLover!
 <br/>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)]
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/JavierGSS.svg?style=social&label=Follow&maxAge=2592000)
 
 
 <!---
