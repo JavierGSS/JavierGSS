@@ -5,7 +5,7 @@
 <br/>
 
 - 👋 Hi, I’m Javier García Salcedo--but my friends call me "Baba"
-- 👀 I’m interested in mathematical logic & MERN stack development
+- 👀 I’m interested in mathematical logic, philosophy & MERN stack development
 - 🌱 I’m currently learning Java, Next.js, TypeScript
 - 📫 How to reach me: www.linkedin.com/in/javiergss
 - 😄 Pronouns: he/him
