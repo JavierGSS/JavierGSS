@@ -12,7 +12,7 @@
 - ⚡ Fun fact: #LogicLover!
 <br/>
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=JavierGSS&theme=tokyonight](https://camo.githubusercontent.com/da910183bb90aae5a24af638ce3abe6e4adc74e5efae0d0468cb92e2677547a4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a6176696572475353267468656d653d746f6b796f6e69676874)" alt="mystreak"/>
+<img src="[https://camo.githubusercontent.com/da910183bb90aae5a24af638ce3abe6e4adc74e5efae0d0468cb92e2677547a4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a6176696572475353267468656d653d746f6b796f6e69676874]" alt="mystreak"/>
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JavierGSS) &nbsp; [![Maintainer](https://img.shields.io/badge/Maintainer-JavierGSS-blue)](https://www.linkedin.com/in/javiergss) &nbsp; <img alt="followers" src="https://img.shields.io/github/followers/JavierGSS?label=Followers&style=social"> &nbsp; <a href="https://www.linkedin.com/in/javiergss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
