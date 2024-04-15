@@ -6,10 +6,10 @@
 
 - 👋 Hi, I’m Javier García Salcedo--but my friends call me "Baba" 👋
 - 👀 I’m interested in mathematical logic, philosophy, & MERN stack development
-- 🌱 I’m currently learning Java, Next.js, TypeScript, and more MongoDB! 🌱
+- 🌱 I’m currently learning Java, Next.js, TypeScript, and even more MongoDB! 🌱
 - 📫 How to reach me: jagasal@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: #LogicLover!
+- ⚡ Fun fact: #LogicLover! :nerd_face:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierGSS&theme=tokyonight" alt="mystreak"/>
