@@ -5,7 +5,7 @@
 <br/>
 
 - 👋 Hi, I’m Javier García Salcedo--but my friends call me "Baba" 🙋‍♂️
-- 👀 I’m interested in mathematical logic, philosophy, & MERN stack development
+- 👀 I’m interested in mathematical logic, philosophy, MERN stack development, & Appian 👀
 - 🌱 I’m currently learning Java, Next.js, TypeScript, and even more MongoDB! 🌱
 - 📫 How to reach me: jagasal@icloud.com
 - 😄 Pronouns: he/him 🧔‍♂️
